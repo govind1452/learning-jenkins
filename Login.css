@@ -1,0 +1,48 @@
+body{
+    background-color: whitesmoke;
+}
+h1{
+    text-align: center;
+    font-size: 30px;
+    color:blue;
+}
+img{
+    width: 50%;
+    height: 70%;
+}
+
+h2{
+    margin-left: 60%;
+    margin-top: -20%;
+}
+h3{
+    margin-left: 60%;
+}
+#User-name{
+    margin-left: 60%;
+    size: 100px;
+    width: 20%;
+    padding: 10px 20px;
+}
+#Password{
+    margin-left: 60%;
+    size: 100px;
+    width: 20%;
+    padding: 10px 20px;
+}
+.submit-button{
+    margin-left: 60%;
+    margin-top:2%;
+
+    width: 20%;
+ }
+a:hover{
+    color: green;
+}
+h4{
+    margin-left: 60%;
+
+    margin-bottom: 10%;
+    color: blue;
+    size: 30px;
+}
